@@ -1,4 +1,8 @@
 ### Hi there 👋
+<h1>Skills</h1>
+
+Platforms & Languages
+<img src="https://img.shields.io/badge/Spring-3DDC84?style=flat-square&logo=Spring&logoColor=white"/>
 
 <!--
 **sanghunDev/sanghunDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
