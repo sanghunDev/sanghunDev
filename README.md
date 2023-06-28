@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/springBoot-6DB33F?style=flat-square&logo=springBoot&logoColor=white"/>
-<img src="https://img.shields.io/badge/springBoot-6DB33F?style=flat-square&logo=springBoot&logoColor=white"/>
+<img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
