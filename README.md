@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=FDC9C9&height=120&section=header&text=SangHunBae&fontSize=50)
 
-<h1>Skills</h1>
+<h1>Java Spring Back End Engineer, Web Developer</h1>
 
+<h1>Skills</h1>
 <h2>LANGUAGE / FRAMEWORK</h2>
 <h3>Main</h3>
 <p float="left">
@@ -37,7 +38,7 @@
   <img src="https://img.shields.io/badge/terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
 </p>
 
-<h2>Platform</h2>
+<h3>Platform</h3>
 <p float="left">
   <img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=ios&logoColor=white"/>  
