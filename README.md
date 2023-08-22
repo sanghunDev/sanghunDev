@@ -33,10 +33,16 @@
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
-<h2>ETC</h2>
-<h3>Cloud</h3>
+<h2>VCS</h2>
 <p float="left">
-  <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+</p>
+
+<h2>Experience</h3>
+<h3>Cloud</h2>
+<p float="left">
   <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/openstack-ED1944?style=flat-square&logo=openstack&logoColor=white"/>
   <img src="https://img.shields.io/badge/ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
@@ -47,11 +53,4 @@
 <p float="left">
   <img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=ios&logoColor=white"/>  
-</p>
-
-<h3>VCS</h3>
-<p float="left">
-  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
 </p>
