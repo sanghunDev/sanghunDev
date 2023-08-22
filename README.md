@@ -41,6 +41,20 @@
   <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
 </p>
 
+<h2>Tool</h2>
+<h3>Main</h3>
+<p float="left">
+  <img src="https://img.shields.io/badge/intelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
+</p>
+
+<h3>Experience</h3>
+<p float="left">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
+</p>
+
 <h2>Experience</h3>
 <h3>Cloud</h2>
 <p float="left">
@@ -54,4 +68,10 @@
 <p float="left">
   <img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=ios&logoColor=white"/>  
+</p>
+
+<h3>ETC</h3>
+<p float="left">
+  <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/junit5-25A162?style=flat-square&logo=junit5&logoColor=white"/>  
 </p>
