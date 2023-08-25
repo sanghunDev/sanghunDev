@@ -60,6 +60,7 @@
 <p float="left">
   <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/openstack-ED1944?style=flat-square&logo=openstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vmware-607078?style=flat-square&logo=vmware&logoColor=white"/>
   <img src="https://img.shields.io/badge/ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
 </p>
