@@ -2,6 +2,11 @@
 
 <h1>Java Spring Back End Engineer, Web Developer</h1>
 
+<h1>Introduction</h1>
+<div float="left">
+  <p>I'm focusing on learning about the backend, focusing on Java and Spring, but it's not limited to the backend. I'm experiencing a lot of things I can do</p>
+</div>
+
 <h1>Skills</h1>
 <h2>LANGUAGE / FRAMEWORK</h2>
 <h3>Main</h3>
