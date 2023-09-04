@@ -65,6 +65,7 @@
 <h2>Experience</h3>
 <h3>Cloud</h2>
 <p float="left">
+  <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/openstack-ED1944?style=flat-square&logo=openstack&logoColor=white"/>
   <img src="https://img.shields.io/badge/vmware-607078?style=flat-square&logo=vmware&logoColor=white"/>
