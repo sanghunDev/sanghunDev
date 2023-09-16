@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </p>
 
 <h2>VCS</h2>
@@ -46,6 +47,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white"/>
 </p>
 
 <h2>Tool</h2>
@@ -69,8 +71,6 @@
   <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/openstack-ED1944?style=flat-square&logo=openstack&logoColor=white"/>
   <img src="https://img.shields.io/badge/vmware-607078?style=flat-square&logo=vmware&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
 </p>
 
 <h3>Platform</h3>
@@ -81,6 +81,9 @@
 
 <h3>ETC</h3>
 <p float="left">
+  <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
   <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/junit5-25A162?style=flat-square&logo=junit5&logoColor=white"/>  
 </p>
