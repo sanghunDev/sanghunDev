@@ -9,25 +9,16 @@
 
 <h1>Skills</h1>
 <h2>LANGUAGE / FRAMEWORK</h2>
-<h3>Main</h3>
 <p float="left">
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/springBoot-6DB33F?style=flat-square&logo=springBoot&logoColor=white"/>
-</p>
-
-<h3>Sub</h3>
-<p float="left">
-  <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
 </p>
 
 <h3>Experience</h3>
 <p float="left">
-  <img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
@@ -51,17 +42,9 @@
 </p>
 
 <h2>Tool</h2>
-<h3>Main</h3>
 <p float="left">
   <img src="https://img.shields.io/badge/intelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
-</p>
-
-<h3>Experience</h3>
-<p float="left">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
 </p>
 
 <h2>Experience</h3>
