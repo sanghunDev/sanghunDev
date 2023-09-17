@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=FFC9C9&height=130&section=header&text=SangHunBae&fontSize=50)
 
-<h1>Java Spring Back End Engineer, Web Developer</h1>
+<h1>Java Spring Back End Engineer, Software Developer</h1>
 
 <h1>Introduction</h1>
 <div float="left">
@@ -33,6 +33,13 @@
   <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </p>
 
+<h2>Cloud</h2>
+<p float="left">
+  <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/openstack-ED1944?style=flat-square&logo=openstack&logoColor=white"/>
+</p>
+
 <h2>VCS</h2>
 <p float="left">
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -47,15 +54,7 @@
   <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
 </p>
 
-<h2>Experience</h3>
-<h3>Cloud</h2>
-<p float="left">
-  <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/openstack-ED1944?style=flat-square&logo=openstack&logoColor=white"/>
-</p>
-
-<h3>ETC</h3>
+<h2>ETC</h2>
 <p float="left">
   <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/>
