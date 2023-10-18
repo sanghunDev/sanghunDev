@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Openstack-ED1944?style=flat-square&logo=openstack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rancher-326CE5?style=flat-square&logo=Rancher&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rancher-0075A8?style=flat-square&logo=Rancher&logoColor=white"/>
  <img src="https://img.shields.io/badge/Harbor-60B932?style=flat-square&logo=Harbor&logoColor=white"/>
 </p>
 
