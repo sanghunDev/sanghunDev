@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Mariadb-003545?style=flat-square&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-6DB33F?style=flat-square&logo=mongoDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongoDB&logoColor=white"/>
 </p>
 
 <h2>Cloud</h2>
@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/Openstack-ED1944?style=flat-square&logo=openstack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rancher-326CE5?style=flat-square&logo=Rancher&logoColor=white"/>
- <img src="https://img.shields.io/badge/Harbor-844FBA?style=flat-square&logo=Harbor&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Harbor-60B932?style=flat-square&logo=Harbor&logoColor=white"/>
 </p>
 
 <h2>VCS</h2>
