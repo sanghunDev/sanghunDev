@@ -72,3 +72,8 @@
   <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
 </p>
+
+<h3>Blog</h3>
+<p float="left">
+  <a href="https://progreneur.com/">blog</a>
+</p>
