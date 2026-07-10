@@ -1,79 +1,31 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=FFC9C9&height=130&section=header&text=SangHunBae&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=170&section=header&text=SangHun%20Bae&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Backend%20Engineer%20%C2%B7%20Solo%20Maker&descSize=16&descAlignY=55)
 
-<h1>Java Spring Back End Engineer, Software Developer</h1>
+Java·Spring 백엔드로 7년 일했고, 지금은 기획부터 개발·배포·운영까지 혼자 하는 1인 개발을 하고 있습니다.
+만들다 막힌 문제와 해결 과정은 블로그에 기록합니다.
 
-<h1>Introduction</h1>
-<div float="left">
-  <p>I'm focusing on learning about the backend, focusing on Java and Spring, but it's not limited to the backend. I'm experiencing a lot of things I can do</p>
-</div>
+📝 **개발 기록 — [progreneur.com](https://progreneur.com)**
 
-<h1>Skills</h1>
-<h2>LANGUAGE / FRAMEWORK</h2>
-<p float="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springBoot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
-</p>
+## 만들고 운영하는 것들
 
-<h3>Experience</h3>
-<p float="left">
-  <img src="https://img.shields.io/badge/Junit5-25A162?style=flat-square&logo=junit5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fastapi-009688?style=flat-square&logo=Fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
-</p>
+| 서비스 | 한 줄 소개 | 상태 |
+|---|---|---|
+| [딱지](https://ttakji.progreneur.com) | 문항만 붙여넣으면 학교 양식 시험지 자동 완성 — 교사용 조판 SaaS | 베타 운영 중 |
+| [입어봄](https://progreneur.com/projects/ibeobom) | 날씨에 맞는 오늘의 코디를 AI가 추천 | 운영 중 |
+| [집안챙김](https://progreneur.com/projects/homekeep) | 소모품 교체·청소 주기를 때맞춰 챙겨주는 살림 앱 | 출시 임박 |
+| [멍트래커](https://progreneur.com/projects/mungtracker) | 반려견 건강·산책 관리 | 출시 임박 |
+| [일상 계산기](https://calc.progreneur.com) | 근거와 해설까지 설명하는 무료 생활 계산기 허브 | 운영 중 |
+| [심심연구소](https://play.progreneur.com) | 결과가 진짜 자세한 무료 심리테스트 | 운영 중 |
 
-<h2>DBMS</h2>
-<p float="left">
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mariadb-003545?style=flat-square&logo=mariadb&logoColor=white"/>
-</p>
+## Skills
 
-<h3>Experience</h3>
-<p float="left">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongoDB&logoColor=white"/>
-</p>
+**Backend** &nbsp;
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
 
-<h2>Cloud</h2>
-<p float="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-</p>
+**Web · App** &nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
 
-<h3>Experience</h3>
-<p float="left">
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/>
-</p>
+**Data** &nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
 
-<h2>VCS</h2>
-<p float="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white"/>
-</p>
-
-<h2>Tool</h2>
-<p float="left">
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/>
-</p>
-
-<h2>ETC</h2>
-<p float="left">
-  <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-</p>
-
-<h3>Blog</h3>
-<p float="left">
-  <a href="https://progreneur.com/">blog</a>
-</p>
+**Infra** &nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white">
