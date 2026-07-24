@@ -42,8 +42,10 @@ const cell = (s) =>
     .trim()
     .replace(/\.$/, "");
 
+// position은 프로젝트 등록 시 마지막 순번으로 부여되므로, 값이 클수록 최근 등록.
+// 내림차순으로 최근 만든 프로젝트가 표 위로 오게 한다(사이트 자체의 표시 순서와는 무관).
 const rows = projects
-  .sort((a, b) => (a.position ?? 0) - (b.position ?? 0))
+  .sort((a, b) => (b.position ?? 0) - (a.position ?? 0))
   .map((p) => {
     const link = p.href || `https://progreneur.com/projects/${p.id}`;
     const status = STATUS_LABEL[p.status] || p.status || "";
