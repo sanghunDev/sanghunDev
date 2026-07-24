@@ -17,9 +17,16 @@ const STATUS_LABEL = {
   진행예정: "진행 예정",
 };
 
-const res = await fetch(API, { headers: { accept: "application/json" } });
+const res = await fetch(API, {
+  headers: {
+    accept: "application/json",
+    "user-agent":
+      "Mozilla/5.0 (compatible; progreneur-readme-sync/1.0; +https://github.com/sanghunDev/sanghunDev)",
+  },
+});
 if (!res.ok) {
-  console.error(`✗ API ${res.status} — README 변경 없음`);
+  const body = (await res.text()).slice(0, 300);
+  console.error(`✗ API ${res.status} — README 변경 없음\n응답 헤더 server=${res.headers.get("server")} cf-mitigated=${res.headers.get("cf-mitigated")}\n${body}`);
   process.exit(1);
 }
 const projects = await res.json();
