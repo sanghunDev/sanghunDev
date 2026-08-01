@@ -11,13 +11,13 @@ Java·Spring 백엔드로 7년 일했고, 지금은 기획부터 개발·배포�
 <!-- PROGRENEUR-PROJECTS:START -->
 | 서비스 | 한 줄 소개 | 상태 |
 |---|---|---|
-| [마음비움](https://progreneur.com/projects/mindvoice) | 하루 끝에 촛불 앞에서 3분, 목소리로 마음을 내려놓으면 따뜻한 한마디가 돌아오는 마음 비움 앱 | 출시 임박 |
-| [집안챙김](https://progreneur.com/projects/homekeep) | 소모품 교체·청소 주기·가족 장보기를 때맞춰 알림으로 챙기는 살림 앱 | 출시 임박 |
 | [멍트래커](https://progreneur.com/projects/mungtracker) | 보호자를 위한 체계적인 반려견 건강·산책 관리 서비스 | 출시 임박 |
-| [딱지](https://ttakji.progreneur.com/) | 문항을 붙여넣으면 학교 양식에 맞춰 한글(HWPX) 시험지로 자동 조판하는 교사용 도구 (베타 운영 중) | 운영 중 |
+| [마음비움](https://progreneur.com/projects/mindvoice) | 하루 끝에 촛불 앞에서 3분, 목소리로 마음을 내려놓으면 따뜻한 한마디가 돌아오는 마음 비움 앱 | 출시 임박 |
 | [입어봄](https://play.google.com/store/apps/details?id=com.progreneur.ibebom) | 날씨에 맞는 오늘의 코디를 골라, 실제 착장 이미지로 보여주는 앱 | 운영 중 |
+| [집안챙김](https://play.google.com/store/apps/details?id=com.progreneur.homekeep) | 소모품 교체·청소 주기·가족 장보기를 때맞춰 알림으로 챙기는 살림 앱 | 운영 중 |
 | [심심연구소](https://play.progreneur.com) | 에겐견·테토견 성향 분석부터 반려견 매칭까지, 결과를 유형검사처럼 자세히 풀어주는 무료 심리테스트 모음 | 운영 중 |
 | [일상 계산기](https://calc.progreneur.com) | 검증된 공식과 근거로 계산하고, 왜 그런 결과인지까지 설명하는 무료 생활 계산기 허브 | 운영 중 |
+| [딱지](https://ttakji.progreneur.com/) | 문항을 붙여넣으면 학교 양식에 맞춰 한글(HWPX) 시험지로 자동 조판하는 교사용 도구 (베타 운영 중) | 운영 중 |
 <!-- PROGRENEUR-PROJECTS:END -->
 
 ## Skills
