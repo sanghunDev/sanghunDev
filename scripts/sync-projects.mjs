@@ -17,6 +17,9 @@ const STATUS_LABEL = {
   진행예정: "진행 예정",
 };
 
+// 표시 순서: 운영중 → 출시임박 → 개발중 → 진행예정. 알 수 없는 상태는 맨 아래로.
+const STATUS_TIER = { 운영중: 0, 출시임박: 1, 개발중: 2, 진행예정: 3 };
+
 const res = await fetch(API, {
   headers: {
     accept: "application/json",
@@ -42,21 +45,35 @@ const cell = (s) =>
     .trim()
     .replace(/\.$/, "");
 
-// position은 프로젝트 등록 시 마지막 순번으로 부여되므로, 값이 클수록 최근 등록.
-// 내림차순으로 최근 만든 프로젝트가 표 위로 오게 한다(사이트 자체의 표시 순서와는 무관).
-const rows = projects
-  .sort((a, b) => (b.position ?? 0) - (a.position ?? 0))
-  .map((p) => {
-    const link = p.href || `https://progreneur.com/projects/${p.id}`;
-    const status = STATUS_LABEL[p.status] || p.status || "";
-    return `| [${cell(p.name)}](${link}) | ${cell(p.summary)} | ${status} |`;
-  });
+// 같은 상태 안에서는 position(사이트 자체 표시 순서, 완성도·중요도로 수동 정렬)을 그대로 따른다.
+const byStatusThenPosition = (a, b) => {
+  const ta = STATUS_TIER[a.status] ?? 99;
+  const tb = STATUS_TIER[b.status] ?? 99;
+  if (ta !== tb) return ta - tb;
+  return (a.position ?? 0) - (b.position ?? 0);
+};
 
-const table = [
-  "| 서비스 | 한 줄 소개 | 상태 |",
-  "|---|---|---|",
-  ...rows,
-].join("\n");
+const buildTable = (list) => {
+  const rows = list
+    .slice()
+    .sort(byStatusThenPosition)
+    .map((p) => {
+      const link = p.href || `https://progreneur.com/projects/${p.id}`;
+      const status = STATUS_LABEL[p.status] || p.status || "";
+      return `| [${cell(p.name)}](${link}) | ${cell(p.summary)} | ${status} |`;
+    });
+  return ["| 서비스 | 한 줄 소개 | 상태 |", "|---|---|---|", ...rows].join("\n");
+};
+
+// category가 "Web · ..." 형태면 웹, 그 외(현재는 "App")는 앱으로 분류한다.
+const isWeb = (p) => String(p.category ?? "").startsWith("Web");
+const webProjects = projects.filter(isWeb);
+const appProjects = projects.filter((p) => !isWeb(p));
+
+const sections = [];
+if (webProjects.length) sections.push(`### Web\n\n${buildTable(webProjects)}`);
+if (appProjects.length) sections.push(`### App\n\n${buildTable(appProjects)}`);
+const table = sections.join("\n\n");
 
 const md = readFileSync(README, "utf8");
 const si = md.indexOf(START);
