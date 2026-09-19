@@ -22,7 +22,7 @@ Java·Spring 백엔드로 7년 일했고, 지금은 기획부터 개발·배포�
 
 | 서비스 | 한 줄 소개 | 상태 |
 |---|---|---|
-| [집안챙김](https://play.google.com/store/apps/details?id=com.progreneur.homekeep) | 소모품 교체·청소 주기·가족 장보기를 때맞춰 알림으로 챙기는 살림 앱 | 운영 중 |
+| [집안챙김](https://play.google.com/store/apps/details?id=com.progreneur.homekeep) | 초대코드로 가족이 함께 쓰는 장보기 장바구니. 사진으로 담고, 떨어질 때가 되면 알아서 채워지는 살림 앱 | 운영 중 |
 | [입어봄](https://play.google.com/store/apps/details?id=com.progreneur.ibebom) | 날씨에 맞는 오늘의 코디를 골라, 실제 착장 이미지로 보여주는 앱 | 운영 중 |
 | [마음비움](https://progreneur.com/projects/mindvoice) | 하루 끝에 촛불 앞에서 3분, 목소리로 마음을 내려놓으면 따뜻한 한마디가 돌아오는 마음 비움 앱 | 출시 임박 |
 | [멍트래커](https://progreneur.com/projects/mungtracker) | 보호자를 위한 체계적인 반려견 건강·산책 관리 서비스 | 출시 임박 |
