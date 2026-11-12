@@ -1,11 +1,13 @@
 // progreneur.com 공개 API의 프로젝트 목록을 README '만들고 운영하는 것들' 표로 동기화한다.
-// - 소스: https://progreneur.com/api/projects (D1 최신 상태, 인증 불필요)
+// - 소스: https://progreneur.com/api/projects?for=readme (인증 불필요)
+//   README 에 보일 프로젝트는 관리자 콘솔에서 랜딩과 따로 고른다(2026-11-13). 그 목록이 아직 없으면 API 가 랜딩 목록을 준다.
+//   목록 항목의 link 가 있으면 그 주소로, null 이면 이름만(갈 곳 없음). link 칸이 없는 옛 응답은 href 또는 랜딩 상세 주소.
 // - README의 마커(<!-- PROGRENEUR-PROJECTS:START/END -->) 사이만 교체한다.
 // - API 실패/빈 응답이면 README를 건드리지 않고 실패로 종료한다(기존 표 보존).
 // 실행: node scripts/sync-projects.mjs
 import { readFileSync, writeFileSync } from "node:fs";
 
-const API = "https://progreneur.com/api/projects";
+const API = "https://progreneur.com/api/projects?for=readme";
 const README = new URL("../README.md", import.meta.url);
 const START = "<!-- PROGRENEUR-PROJECTS:START -->";
 const END = "<!-- PROGRENEUR-PROJECTS:END -->";
@@ -58,9 +60,10 @@ const buildTable = (list) => {
     .slice()
     .sort(byStatusThenPosition)
     .map((p) => {
-      const link = p.href || `https://progreneur.com/projects/${p.id}`;
+      const link = "link" in p ? p.link : p.href || `https://progreneur.com/projects/${p.id}`;
       const status = STATUS_LABEL[p.status] || p.status || "";
-      return `| [${cell(p.name)}](${link}) | ${cell(p.summary)} | ${status} |`;
+      const name = link ? `[${cell(p.name)}](${link})` : cell(p.name);
+      return `| ${name} | ${cell(p.summary)} | ${status} |`;
     });
   return ["| 서비스 | 한 줄 소개 | 상태 |", "|---|---|---|", ...rows].join("\n");
 };
