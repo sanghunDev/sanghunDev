@@ -13,17 +13,17 @@ Java·Spring 백엔드로 7년 일했고, 지금은 기획부터 개발·배포�
 
 | 서비스 | 한 줄 소개 | 상태 |
 |---|---|---|
-| [딱지](https://ttakji.progreneur.com/) | 문항을 붙여넣으면 학교 양식에 맞춰 한글(HWPX) 시험지로 자동 조판하는 교사용 도구 (베타 운영 중) | 운영 중 |
-| [눈치](https://nunchi.progreneur.com/) | AI가 내 말을 어떻게 알아들었는지 보면서, 시키는 법을 직접 해보며 배우는 무료 웹 서비스 | 운영 중 |
+| [딱지](https://ttakji.progreneur.com/) | 문항을 붙여넣거나 한글·워드·PDF를 불러오면 원안지 양식대로 한글(HWPX) 시험지를 만들어 주는 교사용 도구(베타) | 운영 중 |
+| [디지털 코칭](https://coach.progreneur.com) | 링크 하나로 학생을 부르고, 막힌 화면을 함께 보며 그 위에 바로 짚어 주는 온라인 수업 도구 | 운영 중 |
 | [일상 계산기](https://calc.progreneur.com) | 검증된 공식과 근거로 계산하고, 왜 그런 결과인지까지 설명하는 무료 생활 계산기 허브 | 운영 중 |
-| [심심연구소](https://play.progreneur.com) | 에겐견·테토견 성향 분석부터 반려견 매칭까지, 결과를 유형검사처럼 자세히 풀어주는 무료 심리테스트 모음 | 운영 중 |
+| [심심연구소](https://play.progreneur.com) | 반려동물부터 연애·직장까지, 결과를 유형검사처럼 자세히 풀어 주는 무료 심리테스트 모음 | 운영 중 |
 
 ### App
 
 | 서비스 | 한 줄 소개 | 상태 |
 |---|---|---|
-| [집안챙김](https://progreneur.com/projects/homekeep) | 초대코드로 가족이 함께 쓰는 장보기 장바구니. 사진으로 담고, 떨어질 때가 되면 알아서 채워지는 살림 앱 | 운영 중 |
-| [입어봄](https://progreneur.com/projects/ibeobom) | 날씨에 맞는 오늘의 코디를 골라, 실제 착장 이미지로 보여주는 앱 | 운영 중 |
+| [입어봄](https://progreneur.com/projects/ibeobom) | 지금 있는 곳의 날씨와 내 프로필에 맞는 옷차림을 전신 코디 사진으로 골라 주는 앱 | 운영 중 |
+| [집안 챙김](https://progreneur.com/projects/homekeep) | 가족과 같은 장보기 목록을 나눠 쓰고, 바꿀 때가 된 소모품은 목록에 저절로 담기는 살림 앱 | 운영 중 |
 | [마음비움](https://progreneur.com/projects/mindvoice) | 하루 끝에 촛불 앞에서 3분, 목소리로 마음을 내려놓으면 따뜻한 한마디가 돌아오는 마음 비움 앱 | 운영 중 |
 <!-- PROGRENEUR-PROJECTS:END -->
 
